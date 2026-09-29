@@ -48,3 +48,7 @@ pnpm package:mac
 ## Local data
 
 Electron persists application state to `scoutline.sqlite` under the macOS application-data directory. Browser preview mode uses localStorage. No Scoutline-defined finder, outreach, storage, automation, or AI usage quota exists.
+
+## License
+
+Scoutline is **source-available, not open source**. The repository may be viewed and evaluated, but copying, modification, redistribution, commercial use, production deployment, hosted use, and competitive use are prohibited without prior written permission. See [LICENSE](LICENSE) for the complete terms.

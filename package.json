@@ -3,6 +3,7 @@
   "version": "0.6.1",
   "packageManager": "pnpm@11.19.0",
   "private": true,
+  "license": "SEE LICENSE IN LICENSE",
   "description": "Local-first artist scouting, outreach, and A&R operations desktop app.",
   "main": "dist-electron/electron/main.js",
   "type": "module",
