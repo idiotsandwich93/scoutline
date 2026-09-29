@@ -1,0 +1,11 @@
+allowBuilds:
+  better-sqlite3: false
+  electron: true
+  electron-winstaller: true
+  esbuild: true
+  ffmpeg-static: set this to true or false
+onlyBuiltDependencies:
+  - electron
+  - electron-winstaller
+  - esbuild
+confirmModulesPurge: false
